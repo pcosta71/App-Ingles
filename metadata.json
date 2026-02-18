@@ -1,0 +1,7 @@
+{
+  "name": "Fluentify - English Conversation Practice",
+  "description": "Practice your English speaking skills with a friendly AI tutor. Have real-time voice conversations and get instant feedback to improve your fluency and confidence.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
